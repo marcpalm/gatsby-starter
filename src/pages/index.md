@@ -1,50 +1,35 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: How does value investing work?
+image: /img/og-image.jpg
+heading: How we invest?
+subheading: >-
+  Value investing in companies with a durable competitve adjavantage. Buy them
+  cheap, be patient and sell them high.
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  title: Why we invest?
+  description: |2
+        We believe in freedom. Financial freedom is one of the main pillar. Only
+        passive income will achieve this. Stock investments are the easiest way to
+        start it. You can begin with little sum and it scales indefinitely.
+description: '    We distinguish between investing and speculating. Investing means buying     assets such as stock, real estate and bonds for the earnings they generate.     Speculating equals buying something to sell it to a greater fool tomorrow.  We specialise largely on stock investments and analyse them according to  their financial statement.'
 intro:
   blurbs:
     - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      text: |2
+              We analyse financial statements of publicly traded companies and compare
+              it with their competitors. We want to provide lots of free educational
+              material, check list and analyse some example companies.
     - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+      text: |2
+              We provide screener to analyse a large portion of stocks from various universes.
     - image: /img/tutorials.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        We generate in-depth up to date reports with an analysis of the
+        financial statements.
     - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+      text: |
+        We provide AI supported recommendations which stocks are undervalued.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -52,12 +37,14 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: Our mission
+  description: |2
+        We want to enable people to become investors. The mental freedom experienced
+        by a decent net worth and the knowledge of financial independence greatly
+        increase the quality of live. This is what we want our readers to
+        experience. By the way, it is totally okay for us that you might decide to
+        invest in ETFs after being overwhelmed what goes into the analysis of a single
+        stock.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
