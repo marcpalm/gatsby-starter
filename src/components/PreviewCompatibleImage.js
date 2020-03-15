@@ -5,28 +5,15 @@ import PropTypes from 'prop-types'
 const PreviewCompatibleImage = ({ imageInfo }) => {
   const imageStyle = { borderRadius: '5px' }
   const { alt = '', image } = imageInfo
-
-  // if (!!image && !!image.childImageSharp) {
-  //   return (
-  //     <Img style={imageStyle} fluid={image.childImageSharp.fluid} alt={alt} />
-  //   )
-  // }
-
-  // if (!!childImageSharp) {
-  //   return <Img style={imageStyle} fluid={childImageSharp.fluid} alt={alt} />
-  // }
-
-  if (!!image && typeof image === 'string')
-    return <img style={imageStyle} src={image} alt={alt} />
-
-  return null
+  return <img style={imageStyle} src={image.publicURL} alt={alt} />
 }
 
 PreviewCompatibleImage.propTypes = {
   imageInfo: PropTypes.shape({
-    alt: PropTypes.string,
-    childImageSharp: PropTypes.object,
-    image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]).isRequired,
+    alt: PropTypes.string.isRequired,
+    image: PropTypes.oneOfType(PropTypes.shape({
+      publicURL: PropTypes.string.isRequired
+    })).isRequired,
     style: PropTypes.object,
   }).isRequired,
 }
