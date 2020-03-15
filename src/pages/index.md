@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: How does value investing work?
-image: /img/og-image.jpg
+image: /img/u/freelancer.svg
 heading: How we invest?
 subheading: >-
   Value investing in companies with a durable competitve adjavantage. Buy them
@@ -15,19 +15,19 @@ mainpitch:
 description: '    We distinguish between investing and speculating. Investing means buying     assets such as stock, real estate and bonds for the earnings they generate.     Speculating equals buying something to sell it to a greater fool tomorrow.  We specialise largely on stock investments and analyse them according to  their financial statement.'
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/u/a_whole_year.svg
       text: |2
               We analyse financial statements of publicly traded companies and compare
               it with their competitors. We want to provide lots of free educational
               material, check list and analyse some example companies.
-    - image: /img/coffee-gear.png
+    - image: /img/u/spreadsheets.svg
       text: |2
               We provide screener to analyse a large portion of stocks from various universes.
-    - image: /img/tutorials.png
+    - image: /img/u/account.svg
       text: >
         We generate in-depth up to date reports with an analysis of the
         financial statements.
-    - image: /img/meeting-space.png
+    - image: /img/u/artificial_intelligence.svg
       text: |
         We provide AI supported recommendations which stocks are undervalued.
   heading: What we offer
