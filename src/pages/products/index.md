@@ -26,13 +26,13 @@ main:
     optimal for the plants, farmers and the local environment.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/u/absorbed_in.svg
+    image: /img/u/adventure.svg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/u/a_day_at_the_park.svg
+    image: /img/u/adventure.svg
   image3:
     alt: Coffee beans
-    image: /img/u/about_us_page.svg
+    image: /img/u/adventure.svg
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
