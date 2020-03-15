@@ -181,24 +181,6 @@ export const productPageQuery = graphql`
         main {
           heading
           description
-          image1 {
-            alt
-            image {
-              publicURL
-            }
-          }
-          image2 {
-            alt
-            image {
-              publicURL
-            }
-          }
-          image3 {
-            alt
-            image {
-              publicURL
-            }
-          }
         }
         testimonials {
           author
